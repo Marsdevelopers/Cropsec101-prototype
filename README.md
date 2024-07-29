@@ -29,10 +29,10 @@ This folder contains machine learning models for predicting plants diseases by a
 
 # Future Implementations:
 On the future updations we add different kinds of senors to the rover such as
-Humidity sensor
-Temparature sensor 
-Lidar
-UV sensor
+Humidity sensor,
+Temparature sensor, 
+Lidar,
+UV sensor and
 Soil NPK Sensor to get more data related to soil like its nitrogen and pottassium contents . Also we collect different
 data regarding farms we analysis this data using different ml models . We will create a dedicate application that 
 can sugggest what the farmer do for plant health as well as for maximum productivity.
