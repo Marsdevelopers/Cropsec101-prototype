@@ -12,3 +12,13 @@ This folder contains code for arduino and esp32 of the hardware section:
 4) File "esp32cam.ino" contains the code to take images of the leaf this images is sent to a nodejs server in cloud containing a file "server_node.js"
    on this server we implement ml models for the plant disease predictions and we analyse the palnt health.
 
+# ML_model_ :
+This folder contains machine learning models for predicting plants diseases by analysing plant leaf image :
+
+1) "Model_Training.ipynb" is the model trained in our system it contains python code to predict the disease.
+2) "notebook87349e5dic.ipynb" is the jupyter notebook  contains python code to predict the disease trained in Kaggle.
+3) "app.py" is the file used to host the tarined model to predict diseases this cointains python code to deployment(Flask framework is used as backend)
+4) Folders "templates","css" aand "js" contains for frondend
+
+# Diagram of the Rover
+   ![applsci-12-03396-g007](https://github.com/user-attachments/assets/2c07e097-b2ec-42ab-b65b-0c3f9c1e240f)
