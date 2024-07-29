@@ -20,6 +20,8 @@ This folder contains machine learning models for predicting plants diseases by a
 3) "app.py" is the file used to host the tarined model to predict diseases this cointains python code to deployment(Flask framework is used as backend)
 4) Folders "templates","css" aand "js" contains for frondend
 
+   Data set used to train the model:(https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset)
+
 # Architecture of the Rover
  ![508590_1_En_36_Fig2_HTML (1)](https://github.com/user-attachments/assets/6a20a2cb-6105-44f3-a674-0021a9aaa26a)
 
