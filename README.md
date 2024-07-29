@@ -20,5 +20,19 @@ This folder contains machine learning models for predicting plants diseases by a
 3) "app.py" is the file used to host the tarined model to predict diseases this cointains python code to deployment(Flask framework is used as backend)
 4) Folders "templates","css" aand "js" contains for frondend
 
-# Diagram of the Rover
-   ![applsci-12-03396-g007](https://github.com/user-attachments/assets/2c07e097-b2ec-42ab-b65b-0c3f9c1e240f)
+# Architecture of the Rover
+ ![508590_1_En_36_Fig2_HTML (1)](https://github.com/user-attachments/assets/6a20a2cb-6105-44f3-a674-0021a9aaa26a)
+
+# Basic working diagram 
+
+![applsci-12-03396-g007](https://github.com/user-attachments/assets/876ae808-48c1-43af-80b8-aa8771c60d3c)
+
+# Future Implementations:
+On the future updations we add different kinds of senors to the rover such as
+Humidity sensor
+Temparature sensor 
+Lidar
+UV sensor
+Soil NPK Sensor to get more data related to soil like its nitrogen and pottassium contents . Also we collect different
+data regarding farms we analysis this data using different ml models . We will create a dedicate application that 
+can sugggest what the farmer do for plant health as well as for maximum productivity.
