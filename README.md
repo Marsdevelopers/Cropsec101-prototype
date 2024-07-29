@@ -1,7 +1,7 @@
 # Cropsec101-prototype
 This contains prototype phase code base of hardware and software.
 
-#Arduino:
+# Arduino:
 This folder contains code for arduino and esp32 of the hardware section:
 
 1) File "bluetooth_control.ino" contains code for controlling the rover using
