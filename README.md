@@ -30,7 +30,7 @@ This folder contains machine learning models for predicting plants diseases by a
 ![applsci-12-03396-g007](https://github.com/user-attachments/assets/876ae808-48c1-43af-80b8-aa8771c60d3c)
 
 # Future Implementations:
-On the future updations we add different kinds of senors to the rover such as
+On the future updations we add different kinds of sensors to the rover such as
 Humidity sensor,
 Temparature sensor, 
 Lidar,
