@@ -18,7 +18,7 @@ This folder contains machine learning models for predicting plants diseases by a
 1) "Model_Training.ipynb" is the model trained in our system it contains python code to predict the disease.
 2) "notebook87349e5dic.ipynb" is the jupyter notebook  contains python code to predict the disease trained in Kaggle.
 3) "app.py" is the file used to host the tarined model to predict diseases this cointains python code to deployment(Flask framework is used as backend)
-4) Folders "templates","css" aand "js" contains for frondend
+4) Folders "templates","css" and "js" contains for frondend
 
    Data set used to train the model:(https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset)
 
