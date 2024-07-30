@@ -45,3 +45,8 @@ can sugggest what the farmer do for plant health as well as for maximum producti
 ![photo_2024-07-30_10-03-22](https://github.com/user-attachments/assets/026b65f6-f98a-4da5-a41b-47891821cd99)
 ![photo_2024-07-30_10-20-38](https://github.com/user-attachments/assets/b7c3b5f3-4fd5-42be-9c3b-318628329e7b)
 
+# Sample video
+https://github.com/user-attachments/assets/92622220-6efd-44ac-a240-37fa3be59e2d
+
+
+
