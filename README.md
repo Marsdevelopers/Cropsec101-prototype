@@ -1,5 +1,6 @@
 # Cropsec101-prototype
 This contains prototype phase code base of hardware and software.
+In the end you can see images of our MVP prototype
 
 # Arduino:
 This folder contains code for arduino and esp32 of the hardware section:
@@ -38,3 +39,11 @@ UV sensor and
 Soil NPK Sensor to get more data related to soil like its nitrogen and pottassium contents . Also we collect different
 data regarding farms we analysis this data using different ml models . We will create a dedicate application that 
 can sugggest what the farmer do for plant health as well as for maximum productivity.
+
+# Our prototype
+![photo_2024-07-30_10-03-30](https://github.com/user-attachments/assets/f6393191-7c1b-4f9d-b9de-083aa973085e)
+![photo_2024-07-30_10-03-22](https://github.com/user-attachments/assets/026b65f6-f98a-4da5-a41b-47891821cd99)
+![photo_2024-07-30_10-03-30](https://github.com/user-attachments/assets/25c59064-9015-492d-a171-78063a5b1159)
+
+
+
