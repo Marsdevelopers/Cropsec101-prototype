@@ -1,6 +1,12 @@
 # Cropsec101-prototype
 This contains prototype phase code base of hardware and software.
-In the end you can see images of our MVP prototype
+# Our Agro-Monitoring Rover MVP prototype
+
+![photo_2024-07-30_10-03-30](https://github.com/user-attachments/assets/f6393191-7c1b-4f9d-b9de-083aa973085e)
+![photo_2024-07-30_10-03-22](https://github.com/user-attachments/assets/026b65f6-f98a-4da5-a41b-47891821cd99)
+![photo_2024-07-30_10-20-38](https://github.com/user-attachments/assets/b7c3b5f3-4fd5-42be-9c3b-318628329e7b)
+
+Gooogle Drive Link: (https://drive.google.com/file/d/1clu-flHCxdKWIqSSvSEp7zsVxhTArVh0/view?usp=drivesdk)
 
 # Arduino:
 This folder contains code for arduino and esp32 of the hardware section:
@@ -40,10 +46,7 @@ Soil NPK Sensor to get more data related to soil like its nitrogen and pottassiu
 data regarding farms we analysis this data using different ml models . We will create a dedicate application that 
 can sugggest what the farmer do for plant health as well as for maximum productivity.
 
-# Our prototype
-![photo_2024-07-30_10-03-30](https://github.com/user-attachments/assets/f6393191-7c1b-4f9d-b9de-083aa973085e)
-![photo_2024-07-30_10-03-22](https://github.com/user-attachments/assets/026b65f6-f98a-4da5-a41b-47891821cd99)
-![photo_2024-07-30_10-20-38](https://github.com/user-attachments/assets/b7c3b5f3-4fd5-42be-9c3b-318628329e7b)
+
 
 # Sample video
 https://github.com/user-attachments/assets/92622220-6efd-44ac-a240-37fa3be59e2d
